@@ -104,7 +104,7 @@
          "value": ""
       },
       "MUSICBOT_TUT": {
-         "description": "Enter Your Music Bot Setup Video Tutorial Telegraph Link Leave As it Is If You Dont Have",
+         "description": "Enter Your Setup Video Tutorial Telegraph Link Leave As it Is If You Dont Have",
          "required": false,
          "value": ""
       },
